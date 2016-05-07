@@ -1,0 +1,43 @@
+{
+  "name": "angular-http",
+  "main": "angular-http.min.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/adikari/angular-http",
+  "authors": [
+    "Subash Adhikari <me@subash.com.au>"
+  ],
+  "description": "Restful resource for angular",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "angular-http",
+    "angular-rest",
+    "angular-resource"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "README.md"
+  ],
+  "dependencies": {
+    "angular": ">=1.0.8",
+    "angular-httpi": "*"
+  },
+  "devDependencies": {},
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "367a7c4e48d9be6eb8c2491fc3349fb5b18a39d4"
+  },
+  "_source": "https://github.com/adikari/angular-http.git",
+  "_target": "^1.0.1",
+  "_originalSource": "angular-http",
+  "_direct": true
+}
